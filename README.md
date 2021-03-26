@@ -1,6 +1,6 @@
 # Raytrace
 
-**TODO: Add description**
+This is a raytracer written in elixir for the course ID1019 at KTH
 
 ## Installation
 
