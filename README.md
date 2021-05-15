@@ -1,21 +1,2 @@
-# Raytrace
-
-This is a raytracer written in elixir for the course ID1019 at KTH
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `raytrace` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:raytrace, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/raytrace](https://hexdocs.pm/raytrace).
+This is a repository that I will use to store different personal projects. This will include more advanced versions of the programs that I might've made during my time at KTh as a part of the course work.
 
